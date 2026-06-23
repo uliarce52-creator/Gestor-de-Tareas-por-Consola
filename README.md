@@ -13,5 +13,5 @@ Este es un proyecto práctico desarrollado en Python para consolidar mis conocim
 2. Descarga o clona este repositorio.
 3. Abre la terminal en la carpeta del proyecto y ejecuta:
    ```bash
-   python main.py
+   python MAIN.py
    ```
